@@ -9,5 +9,11 @@
 
 Lab report: [Report: Assignment 1 - Team 5](https://codelabs-preview.appspot.com/?file_id=1MS36I6GPuei7GMdE4RDsya0Mf4KZjAcZL6sugpRlPIk#0)
 
-### Dashboard Snapsshots
+### Dashboard Snapshots
 
+![](images/Total%20Expenditure%20Tracking%20Dashboard.png)
+
+![](images/TPC-DS%20Dashboard.png)
+
+
+![](images/Expenditure%20Tracking%20-%20Campaign.png)
