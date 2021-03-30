@@ -5,4 +5,4 @@
   
 ### Links to the report
 
-Lab report: [Report: Assignment 2 - Understanding Promotions](https://codelabs-preview.appspot.com/?file_id=167w34Xef5ULNw2VO9-w9Gz9rcZZTTqM2XNPWifOLtXs#0)
+Assignment report: [Report: Assignment 2 - Understanding Promotions](https://codelabs-preview.appspot.com/?file_id=167w34Xef5ULNw2VO9-w9Gz9rcZZTTqM2XNPWifOLtXs#0)
