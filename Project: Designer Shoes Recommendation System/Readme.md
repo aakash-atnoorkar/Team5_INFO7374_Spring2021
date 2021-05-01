@@ -13,6 +13,6 @@
   
 ### Links to the report
 
-Project report: [Project: Designer Shoes Recommendation System](https://docs.google.com/document/d/16ZM6_tNGLB56g9-dgc9n1IKO2U_dx-s2ySZ9jfiwQ8A/edit?usp=sharing)
+Project report: [Project: Designer Shoes Recommendation System](https://codelabs-preview.appspot.com/?file_id=16ZM6_tNGLB56g9-dgc9n1IKO2U_dx-s2ySZ9jfiwQ8A#0)
 
 Access the application: [Designer Shoes Market](https://designer-shoe-market.herokuapp.com/)
